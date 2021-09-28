@@ -12,7 +12,7 @@ System.out.println(sam.taste);
 
 String[] requirements={"potato","onion","oil","flour"};
 Samosa samosa1=new Samosa(requirements,30.3f,Samosasize.SMALL,true);
-System.out.println(samosa1.ingredients[0]);
+System.out.println(samosa1.ingredients[1]);
 System.out.println(samosa1.price);
 System.out.println(samosa1.size);
 System.out.println(samosa1.taste);
