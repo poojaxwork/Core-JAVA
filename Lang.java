@@ -1,0 +1,4 @@
+enum Lang
+{
+	KANNADA,HINDI,MARATI,ENGLISH;
+	}

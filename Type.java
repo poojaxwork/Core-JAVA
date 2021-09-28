@@ -1,0 +1,7 @@
+enum Type
+{
+	DAILY,WEEKLY,MONTHLY,ANNUAL;
+	
+	
+	
+}

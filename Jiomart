@@ -1,0 +1,13 @@
+class Jio{
+public static void main(String[] val)
+
+{
+Productdetails.printnames("wheat",8,"xyxxxx");
+
+
+
+
+
+
+
+}}
